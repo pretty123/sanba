@@ -91,6 +91,11 @@ class SiteController extends Controller
     {
         return $this->render('about');
     }
+    
+    public function actionCalendar()
+    {
+    	return $this->render('calendar');
+    }
     /**
     	*@comment 三月八日妇女节
     	* @date: 2016-3-8下午5:30:00
