@@ -4,6 +4,7 @@
 
 $this->title = '我的美丽人生';
 ?>
+
 <div class="site-index">
 
     <div class="jumbotron">

@@ -23,6 +23,6 @@ $this->params['breadcrumbs'][] = $this->title;
     5.将yii安装到linux服务器<br/>
     6.注意：不能直接将本地的提交到github,也不能将linux下的提交到github。本地和服务器的必须用原生代码。
     </p>
-
+    <p><a href="/index.php?r=site/learn1">3.8一天的问题，3.9号解决了</a></p>
     <code><?= __FILE__ ?></code>
 </div>

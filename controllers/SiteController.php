@@ -105,4 +105,7 @@ class SiteController extends Controller
     public function actionMe(){
     	return $this->render('me');
     }
+    public function actionLearn1(){
+    	return $this->render('learn1');
+    }
 }
