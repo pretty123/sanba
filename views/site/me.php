@@ -11,7 +11,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>
-        yii安装好麻烦！！！
+       come on! yii安装好麻烦！！！
     </p>
     <p>
         使用github安装yii,实现本地和linux服务器的同时访问。
