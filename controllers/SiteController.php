@@ -127,4 +127,13 @@ class SiteController extends Controller
     		return $this->render('entry', ['model' => $model]);
     	}
     }
+    /**
+    	*@comment 微擎学习
+    	* @date: 2016-3-11下午4:22:28
+    	* @author: qfy
+    	* @return:
+    	*/
+    public function actionWe(){
+    	return $this->render('we');
+    }
 }
